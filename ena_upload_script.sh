@@ -1,4 +1,4 @@
-# Unix functions to archive files in ENA Juan F. Dueñas juanfduenas@proton.me
+# Shell functions to archive files in ENA Juan F. Dueñas juanfduenas@proton.me
 # this script requires you to have registered a project and samples from a study at the European Nucleotide Database ENA https://www.ebi.ac.uk/ena/submit/webin/login
 #
 # [optional] go to <path_to_directory> and compress files if they are not compressed

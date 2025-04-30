@@ -1,4 +1,4 @@
-# Unix loop functions to concatenate files repeated during sequencing
+# Shell commands and loop functions to concatenate files repeated during sequencing
 # Juan F. Dueñas juanfduenas@proton.me
 
 # first remove prefixes from file names added by Sequencing facility
